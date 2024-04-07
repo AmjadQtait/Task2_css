@@ -1,0 +1,25 @@
+
+
+.smallDivs
+{
+ float:left;
+ width: 23%;
+ text-align: center;
+ border:3px gray solid;
+}
+
+.button
+{
+    background-color: blue;
+    color:white;
+}
+
+.greenColor
+{
+    color:green;
+}
+
+.redColor
+{
+    color:red;
+}
